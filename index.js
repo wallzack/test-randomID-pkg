@@ -1,3 +1,3 @@
-const randomID = require('@wallzack/randomid-generator@1.0.0');
+const randomID = require('@wallzack/randomid-generator');
 
 console.log(randomID(10));
