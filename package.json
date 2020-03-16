@@ -1,0 +1,10 @@
+{
+  "name": "test-npm_randomid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "wallzack <vulcheek@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@wallzack/randomid-generator": "1.0.0"
+  }
+}
