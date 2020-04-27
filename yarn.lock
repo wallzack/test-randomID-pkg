@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@wallzack/randomid-generator@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@wallzack/randomid-generator/-/randomid-generator-1.0.0.tgz#293b724d909e84c430873f646eef25ad15c80614"
-  integrity sha512-On5B1sIdRah9VFVr8ArayXi2mnmPOvkaneB/9WbTK9O/hCPhahrnHGyzw59XbMMvOYiTXJfBbPQvyDfhmtrjWQ==
+"@wallzack/randomid-generator@1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@wallzack/randomid-generator/-/randomid-generator-1.0.1.tgz#468bc29fb31b3ad1604f37826746bf307e2046e6"
+  integrity sha512-ij53LmeE+I7iwg5BeiIRty1MRvAVaja7CezN+sn+mfgA9YxFzKzXi7dkL/7Etk1uBwM3utUAAg1Bz2s7Csyb1A==
